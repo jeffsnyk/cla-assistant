@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "description": "yes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffsnyk-cla-assistant"
+  },
+  "license": "MIT OR Apache-2.0",
+  "devDependencies": {
+    "eslint": "^5.12.1"
+  },
+  "dependencies": {
+  }
+}
