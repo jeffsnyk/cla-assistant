@@ -7,9 +7,9 @@
   },
   "license": "MIT OR Apache-2.0",
   "devDependencies": {
-    "eslint": "^5.12.1",
-    "pg": "^3.0.0"
+    "eslint": "^5.12.1"
   },
   "dependencies": {
+    "pg": "^3.0.0"
   }
 }
